@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.grid-container{
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 1rem; 
+    min-height: 100vh;
+  }
+.card {
+  display: grid;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  .card button {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid black ;
+    padding: 8px 15px;
+    margin: 10px;
+    font-size: 14px;
+    border-radius: 5px;
+  }
+  .card button:hover {
+    background-color: #dedede;
+  }
+  .card h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .card p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  .price{
+    width: min-content;
+    color: rgb(253, 68, 68);
+    border: 1px solid rgb(253, 68, 68);
+    border-radius: 20px 20px;
+    padding: 8px;
+
+  }
+  .quantityButtons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .ratings{
+    display: flex;
+  } */
